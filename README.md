@@ -1,6 +1,7 @@
-#Timon of Athens
+##Timon of Athens
 
 ACT I
+
 SCENE I. Athens. A hall in Timon's house.
 
     Enter Poet, Painter, Jeweller, Merchant, and others, at several doors 
